@@ -1,6 +1,8 @@
 # Skin Cancer Classification
 Code for the paper `Convolutional Neural Networks for Classifying Melanoma Images`.
 
+[Paper](https://abhinavsagar.github.io/files/skin_cnn.pdf)
+
 ![loss/accuracy](images/skin1.png)
 
 ## Data
@@ -72,7 +74,7 @@ If you find this code useful in your research, please consider citing the paper:
 ```
 @article{sagar2020convolutional,
   title={Convolutional Neural Networks for Classifying Melanoma Images},
-  author={Sagar, Abhinav},
+  author={Sagar, Abhinav and Dheeba, J},
   journal={bioRxiv},
   year={2020},
   publisher={Cold Spring Harbor Laboratory}
