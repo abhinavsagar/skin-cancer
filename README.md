@@ -1,5 +1,5 @@
 # Skin Cancer Classification
-Code for the paper Convolutional Neural Networks for Classifying Melanoma Images
+Code for the paper `Convolutional Neural Networks for Classifying Melanoma Images`.
 
 ![loss/accuracy](images/skin1.png)
 
