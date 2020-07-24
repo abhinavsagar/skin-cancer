@@ -67,6 +67,14 @@ dataset train
 
 ![results](images/skin6.png)
 
+### Comparison of pre trained weights on results
+
+![results](images/skin7.png)
+
+### Comparison with previous state of the art
+
+![results](images/skin8.png)
+
 ## Citing
 
 If you find this code useful in your research, please consider citing the paper:
