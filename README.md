@@ -3,6 +3,17 @@ Code for the paper `Convolutional Neural Networks for Classifying Melanoma Image
 
 Link to [Paper](https://abhinavsagar.github.io/files/skin_cnn.pdf).
 
+## Abstract
+
+In this work, we address the problem of skin cancer classification using convolutional neural networks. A lot of cancer cases early on are misdiagnosed leading to
+severe consequences including the death of patient. Also there are cases in which
+patients have other problems and doctors interpret it as skin cancer. This leads to
+unnecessary time and money spent for further diagnosis. In this work, we address
+both of the above problems using deep neural networks and transfer learning architecture. We have used publicly available ISIC databases for both training and
+testing our network. Our model achieves an accuracy of 0.935, precision 0.94,
+recall 0.77, F1 score 0.85 and ROC- AUC 0.861 which is better than the previous
+state of the art approaches.
+
 ![loss/accuracy](images/skin1.png)
 
 ## Data
