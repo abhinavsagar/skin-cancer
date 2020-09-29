@@ -93,15 +93,21 @@ dataset train
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020convolutional,
   title={Convolutional Neural Networks for Classifying Melanoma Images},
-  author={Sagar, Abhinav and Dheeba, J},
+  author={Sagar, Abhinav},
   journal={bioRxiv},
   year={2020},
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
+APA:
+
+`Sagar, A. (2020). Convolutional Neural Networks for Classifying Melanoma Images. bioRxiv.`
 
 ## License
 
