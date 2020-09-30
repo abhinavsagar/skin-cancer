@@ -1,4 +1,5 @@
-# Skin Cancer Classification
+# Convolutional Neural Networks for Classifying Melanoma Images
+
 Code for the paper `Convolutional Neural Networks for Classifying Melanoma Images`.
 
 https://abhinavsagar.github.io/files/skin_cnn.pdf
