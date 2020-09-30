@@ -1,10 +1,7 @@
 # Skin Cancer Classification
 Code for the paper `Convolutional Neural Networks for Classifying Melanoma Images`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/skin_cnn.pdf).
-
-Link to [Blog](https://towardsdatascience.com/dermatologist-level-skin-cancer-classification-using-neural-network-475f93d7f8c3).
-
+https://abhinavsagar.github.io/files/skin_cnn.pdf
 
 ## Abstract
 
