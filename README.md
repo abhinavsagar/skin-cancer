@@ -95,8 +95,8 @@ BibTex:
 
 ```
 @article{sagar2020convolutional,
-  title={Convolutional Neural Networks for Classifying Melanoma Images},
-  author={Sagar, Abhinav},
+  title={Convolutional neural networks for classifying melanoma images},
+  author={Sagar, Abhinav and Dheeba, J},
   journal={bioRxiv},
   year={2020},
   publisher={Cold Spring Harbor Laboratory}
@@ -105,7 +105,7 @@ BibTex:
 
 APA:
 
-`Sagar, A. (2020). Convolutional Neural Networks for Classifying Melanoma Images. bioRxiv.`
+`Sagar, A., & Dheeba, J. (2020). Convolutional neural networks for classifying melanoma images. bioRxiv.`
 
 ## License
 
