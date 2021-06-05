@@ -4,6 +4,26 @@ Code for the paper `Convolutional Neural Networks for Classifying Melanoma Image
 
 https://abhinavsagar.github.io/files/skin_cnn.pdf
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+BibTex:
+
+```
+@article{sagar2020convolutional,
+  title={Convolutional neural networks for classifying melanoma images},
+  author={Sagar, Abhinav and Dheeba, J},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+APA:
+
+`Sagar, A., & Dheeba, J. (2020). Convolutional neural networks for classifying melanoma images. bioRxiv.`
+
 ## Abstract
 
 In this work, we address the problem of skin cancer classification using convolutional neural networks. A lot of cancer cases early on are misdiagnosed leading to
@@ -86,26 +106,6 @@ dataset train
 ### Comparison with previous state of the art
 
 ![results](images/skin8.png)
-
-## Citing
-
-If you find this code useful in your research, please consider citing the paper:
-
-BibTex:
-
-```
-@article{sagar2020convolutional,
-  title={Convolutional neural networks for classifying melanoma images},
-  author={Sagar, Abhinav and Dheeba, J},
-  journal={bioRxiv},
-  year={2020},
-  publisher={Cold Spring Harbor Laboratory}
-}
-```
-
-APA:
-
-`Sagar, A., & Dheeba, J. (2020). Convolutional neural networks for classifying melanoma images. bioRxiv.`
 
 ## License
 
